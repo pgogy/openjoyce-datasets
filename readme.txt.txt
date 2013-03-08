@@ -1,0 +1,1 @@
+Word Occurrences contains word occurrences for all of Joyce's major works
